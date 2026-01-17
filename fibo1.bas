@@ -1,4 +1,4 @@
-3	REM   This program runs under BASIC80 and prints the first 100 Fibonacci numbers
+3 REM   This program runs under BASIC80 and prints the first 100 Fibonacci numbers
 5 DIGITS = 25            ' Should be enough for F(100)
 10 DIM A(DIGITS), B(DIGITS), C(DIGITS)
 15 TERMCOUNT = 100
@@ -39,3 +39,4 @@
 280 PRINT : PRINT "Done."
 
 290 END
+
