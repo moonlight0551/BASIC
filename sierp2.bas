@@ -1,6 +1,10 @@
 10 REM ************************************
-20 REM * SIERPINSKI TRIANGLE V1.0         *
+20 REM * CP/M FRACTAL COLLECTION          * 
+25 REM * PROGRAM  SIERPINSKI TRIANGLE     *
 30 REM * FOR MICROSOFT MBASIC / CP-M      *
+35 REM * VERSION 1.0                      *
+36 REM * STATUS : RELEASED                *
+37 REM * DATE : 30 Jun 2026               *
 40 REM ************************************
 
 50 DIM P(24,80)
