@@ -1,15 +1,15 @@
 This is a collection of programs written in BASIC that will run under MBASIC on a CP/M machine.
 
-EVIL.BAS - THIS RUNS UNDER MBASIC. IT COMES FROM A BOOK COMPUTER SPACEGAMES. YOU ARE TRYING TO BLOW UP ELRON THE INVISIBLE ALIEN
-IN A 10 X 10 GRID. YOU ARE ASKED WHERE TO PUT THE BOMB. X CAN BE 0 TO 9, Y CAN BE 0 TO 9
+EVIL.BAS - THhis runs under MBASIC. It comes from a book COMPUTER SPACEGAMES. You are trying to defeat ELRON THE INVISIBLE ALIEN
+in a 10 X 10 grid. You are asked where to put the bomb. X can be 0 to 9, Y can be 0 to 9
 
-FIBO.BAS - FIBONACCI NUMBERS -- ORIGINAL PRG FOR APPLE-1 INTEGER BASIC AUTHOR: UNKNOWN -- ADAPTED FOR MBASIC BY P-LAB 2020
+FIBO.BAS - Fibonacci Numbers -- Original program for APPLE-1 Integer BASIC. Authjjor: Unknown -- Adapted for MBASIC by P-LAB 2020
 
-PRIMES.BAS - CAlCULATES PRIME NUMBERS TO 1000
+PRIMES.BAS - Calculates prime numbers to 1000.
 
-ROCK2.BAS - THIS VERSION IS FROM A SCANNED VERSION FROM 101 BASIC COMPUTER GAMES BY DEC AND CLEANED UP BY CHATGPT
-LUNAR1 IS AN INTERACTIVE GAME THAT SIMULATES A LUNAR LANDING. LANDING SIMILAR TO THAT OF THE APOLLO PROGRAM.
-THERE IS ABSOLUTELY NO CHANCE INVOLVED.
+ROCK2.BAS - Tnis version is from a scanned version from 101 BASIC COMPUTER GAMES BY DEC and cleaned  up by CHATGPT.
+ROCK2.BAS is an interactive game that simulates a lunar landing similar to that of the Apollo program.
+There is absolutely no chance involved.
 
 fibo1.bas - This program runs under MBASIC and prints the first 100 Fibonacci numbers.Tested on a RC2014 running CP/M
 
