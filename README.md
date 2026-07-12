@@ -22,3 +22,5 @@ mandel12.bas - This fractal generator calculates a Mandelbrot fractal on the com
 You will be asked for the number of iterations. 8 is a good number to start with.
 
 sierp2.bas - This fractal generator calculated Sierpinski triangles and is the second in the Fractal Collection.
+
+life.bas - An MBASIC version of Conways famous Game of Life.
