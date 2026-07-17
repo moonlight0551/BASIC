@@ -21,6 +21,8 @@ If you want to start execution from a specific line number, type RUN followed by
 Step 5: Exit MBASIC
 To exit MBASIC and return to the CP/M command prompt, type SYSTEM and press Enter.
 
+### Contents
+
 EVIL.BAS - THhis runs under MBASIC. It comes from a book COMPUTER SPACEGAMES. You are trying to defeat ELRON THE INVISIBLE ALIEN
 in a 10 X 10 grid. You are asked where to put the bomb. X can be 0 to 9, Y can be 0 to 9
 
@@ -33,7 +35,6 @@ ROCK2.BAS is an interactive game that simulates a lunar landing similar to that 
 There is absolutely no chance involved.
 
 fibo1.bas - This program runs under MBASIC and prints the first 100 Fibonacci numbers.Tested on a RC2014 running CP/M
-
 
 julia14.bas - This fractal generator run in MBASIC under CP/M and is the 3rd in the CP/M Fractal Collection. 
 It generates famous fractals ie the Spiral, Douady Rabbit and the Dragon on the command line.
