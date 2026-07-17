@@ -31,7 +31,7 @@ FIBO.BAS - Fibonacci Numbers -- Original program for APPLE-1 Integer BASIC. Auth
 
 PRIMES.BAS - Calculates prime numbers to 1000.
 
-ROCK2.BAS - Tnis version is from a scanned version from 101 BASIC COMPUTER GAMES BY DEC and cleaned up by CHATGPT.
+ROCK2.BAS - This version is from a scanned version from 101 BASIC COMPUTER GAMES BY DEC and cleaned up by CHATGPT.
 It is an interactive game that simulates a lunar landing similar to that of the Apollo program.
 There is absolutely no chance involved.
 
