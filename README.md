@@ -18,6 +18,7 @@ If you have a specific BASIC program file to run, type RUN "MYPROG.BAS". You can
 Step 4: Run the Program
 Once your program is either loaded into memory or typed in, start execution by typing RUN and pressing Enter.
 If you want to start execution from a specific line number, type RUN followed by the line number (e.g., RUN 100) and press Enter.
+
 Step 5: Exit MBASIC
 To exit MBASIC and return to the CP/M command prompt, type SYSTEM and press Enter.
 
