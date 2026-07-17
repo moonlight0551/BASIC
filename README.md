@@ -1,4 +1,5 @@
-**MBASIC**
+<h1 align="center"><b>MBASIC</b></h1>
+
 
 This is a collection of programs written in BASIC that will run under MBASIC on a CP/M machine.
 
