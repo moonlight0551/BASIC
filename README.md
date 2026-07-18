@@ -48,4 +48,4 @@ sierp2.bas - This fractal generator calculated Sierpinski triangles and is the s
 
 life.bas - An MBASIC version of Conways famous Game of Life.
 
-1Dlife10.bas - A 1d version of Conways Game of Life using random data as a starting point. You can choose the number of generations and iterations. Based om Usagi Electric code in his Youtube video here https://www.youtube.com/watch?v=bpdYBsgYF_c&t=664s
+1Dlife10.bas - A 1d version of Conways Game of Life using random data as a starting point. You can choose the number of generations and iterations. Based on Usagi Electric's code in his Youtube video here https://www.youtube.com/watch?v=bpdYBsgYF_c&t=664s
